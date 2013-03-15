@@ -1,0 +1,6 @@
+{
+    "name": "what-keycode-boot",
+    "paths": [".."],
+    "local": [],
+    "scripts": ["index.js"]
+}

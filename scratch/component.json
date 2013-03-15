@@ -1,0 +1,5 @@
+{
+    "name": "what-keycode",
+    "paths": ["lib"],
+    "local": ["what-keycode-boot"]
+}
